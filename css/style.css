@@ -1,0 +1,206 @@
+*{
+    box-sizing: border-box;
+}
+html,
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+    color: #533738;
+    background-color: #EFE6E4;
+}
+.header-block{
+    background-image: url('../img/backgroundmain.jpg');
+    height: 715px;
+}
+
+.heading{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+    text-transform: uppercase;
+    color: #533738;
+}
+
+
+.footer-block{}
+
+/*Main menu*/
+.nav-list{
+    list-style: none;
+}
+.nav-link{
+    font-size: 16px;
+    line-height: 20px;
+    text-decoration: none;
+    color: #533738;
+}
+.phone{
+    font-size: 16px;
+    line-height: 20px;
+    text-decoration: none;
+    color: #533738;
+}
+.logosign{
+    font-size: 16px;
+    line-height: 20px;
+    text-decoration: none;
+    color: #533738;
+}
+
+/*Hero page*/
+.promo{}
+.promo-container{
+    position: absolute;
+    left: 184.08px;
+    top: 152px;
+}
+.main-heading{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 62px;
+    width: 534.02px;
+}
+.promo-description{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+}
+.promo-button{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    text-decoration: none;
+    padding: 24px 68px;
+    color: #533738;
+    background-color: #CC8B86;
+    width: 309.14px;
+    height: 74px;
+    border: none;
+}
+/*About us*/
+.aboutus-container{}
+.aboutus-text{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+}
+.results{
+    background: #8D7370;
+}
+.results-list{
+    list-style: none;
+}
+.results-items{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 37px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.number{
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 62px;
+}
+
+/*Portfolio*/
+.portfolio{}
+.portfolio-gallery{}
+.portfolio-block{
+    width: 488px;
+    height: 451px;
+    background: rgba(100, 72, 69, 0.8);
+}
+.heading-portfolio{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 37px;
+    color: #FFFFFF;
+}
+.text-portfolio{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+.allportfolio{
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 37px;
+    color: #533738;
+}
+
+/*Team*/
+.team{
+    background-color: #E2C4BA;
+}
+.team-block{}
+.team-text{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    color: #533738;
+}
+
+/*Howwork*/
+.howwork{
+    background-color: #E2C4BA;
+}
+.howwork-list{
+    list-style: none;
+
+}
+
+/*Opinion*/
+.opinion{}
+.opinion-block{}
+.opinion-name{
+    text-transform: uppercase;
+}
+
+/*Form*/
+.form{
+    background: #8D7370;
+}
+.form-heading{
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.form-text{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    color: #FFFFFF;
+    opacity: 0.6;
+}
+.form-list{
+    list-style: none;
+}
+.form-item{
+    ont-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    color: #F6EDE9;
+}
+
+/*Footer*/
+.footer-text{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+}
+
+
+
+
+
